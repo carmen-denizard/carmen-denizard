@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **carmen-denizard/carmen-denizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a senior Computer Graphics and Imaging student at CUNY Lehman College. I am currently looking to learn ways that I can use my design skills in the tech industry in a creative way.
